@@ -1,13 +1,11 @@
-### Hi there 👋
----
-### 📹 Talks
+# Hi there 👋
+
+## 📹 Talks
 [Service workers en Progressive Web Applications ](https://www.youtube.com/watch?v=xK_gZRDGy5o)
 
----
-### 📕 Blog posts
+## 📕 Blog posts
 [Web accessibility at Mercadona Tech](https://medium.com/mercadona-tech/web-accessibility-at-mercadona-tech-f493fff3320f)
 
----
 <!--
 **juandiegombr/juandiegombr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
