@@ -2,6 +2,7 @@
 
 ## 📹 Talks
 [Service workers en Progressive Web Applications ](https://www.youtube.com/watch?v=xK_gZRDGy5o)
+[Mejorando la accesibilidad web con TDD](https://www.youtube.com/watch?v=P65egeFvMAk)
 
 ## 📕 Blog posts
 [Web accessibility at Mercadona Tech](https://medium.com/mercadona-tech/web-accessibility-at-mercadona-tech-f493fff3320f)
