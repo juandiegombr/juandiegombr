@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a person with enthusiasm to learn something new every day. I am currently working as a Frontend developer at Mercadona Tech.
+I am a person with enthusiasm to learn something new every day. I am currently working as a Sofwtare Product Engineer at Alhona.
 
 Testing, TDD, pairing... are essential practices in my daily work. Yes, like all of us I started working without these practices, but once I got to know them, it's something I can't do without. As a Product Developer, I seek to get quick feedback with everything I do and these tools give me that feedback which allows me to improve and create quality code.
 
